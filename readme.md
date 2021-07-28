@@ -2,24 +2,24 @@
 
 ## Integrantes:
 
-### 1. Micaela Desireé Gutierrez:
+### *Micaela Desireé Gutierrez:
 
 - 24 años, estudiante de Desarrollo Web Full Stack con Fundación Formar y Digital House, reside en Castelar - Pcia de Buenos Aires.
 
-### 2. Gabriela Quispe:
+### *Gabriela Quispe:
 
 - 28 años, estudiante de derecho y desarrollo web en Digital House de la mano de Fundación Formar, reside en Guernica - Pcia de Bs. As. En su tiempo libre colabora en un refugio de la localidad.
 
-### 3. Braian Justo:
+### *Braian Justo:
 
-- estudiante de Desarrollo Web Full Stack con Fundación Formar y Digital House.
+- 28 años, vendedor y estudiante de Desarrollo Web Full Stack en Digital House de la mano de Fundación Formar. reside en Escobar - Pcia de Bs. As. Sus pasatiempos son leer, aprender idiomas y hacer ejercicio.
 
 # Bienvenidos a Patitas Felices.
 
 *Somos Patitas Felices, un PetShop que brinda lo mejor para tu amigo gatuno y perruno. Ofrecemos productos de excelente calidad para momentos de diversión y relax, como así también tenemos una gran variedad de alimentos de primeras marcas para el bienestar de tu mascota.*
 *En Patitas Felices sabemos que tu amigo peludo es parte de la familia, por ello nuestro servicio siempre elige lo mejor.*
 
-## - Páginas Referentes:
+## -Páginas Referentes:
 
 1. **Por los productos o servicios que ofrecen:** ["Reino DM"][página]
 
@@ -37,7 +37,7 @@
 [página3]: https://mascotaselmolino.com.ar/
 [página4]: https://www.petkit.com/
 
-## - Tablero del proyecto:
+## -Tablero del proyecto:
 
 [Trello][página5]
 
