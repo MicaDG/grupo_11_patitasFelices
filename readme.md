@@ -4,15 +4,15 @@
 
 ### 1. Micaela Desireé Gutierrez:
 
-- *24 años, estudiante de Desarrollo Web Full Stack con Fundación Formar y Digital House, reside en Castelar - Pcia de Buenos Aires.*
+- 24 años, estudiante de Desarrollo Web Full Stack con Fundación Formar y Digital House, reside en Castelar - Pcia de Buenos Aires.
 
 ### 2. Gabriela Quispe:
 
-- *28 años, estudiante de derecho y desarrollo web en Digital House de la mano de Fundación Formar, reside en Guernica - Pcia de Bs. As. En su tiempo libre colabora en un refugio de la localidad.*
+- 28 años, estudiante de derecho y desarrollo web en Digital House de la mano de Fundación Formar, reside en Guernica - Pcia de Bs. As. En su tiempo libre colabora en un refugio de la localidad.
 
 ### 3. Braian Justo:
 
-- *estudiante de Desarrollo Web Full Stack con Fundación Formar y Digital House.*
+- estudiante de Desarrollo Web Full Stack con Fundación Formar y Digital House.
 
 # Bienvenidos a Patitas Felices.
 
