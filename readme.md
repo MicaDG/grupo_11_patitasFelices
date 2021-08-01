@@ -16,6 +16,10 @@
 
 # Bienvenidos a Patitas Felices.
 
+![LogoDePatitasFelices][img]
+
+[img]: /design/Logo.png "Logo"
+
 *Somos Patitas Felices, un PetShop que brinda lo mejor para tu amigo gatuno y perruno. Ofrecemos productos de excelente calidad para momentos de diversión y relax, como así también tenemos una gran variedad de alimentos de primeras marcas para el bienestar de tu mascota.*
 *En Patitas Felices sabemos que tu amigo peludo es parte de la familia, por ello nuestro servicio siempre elige lo mejor.*
 
