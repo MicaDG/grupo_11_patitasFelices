@@ -1,0 +1,13 @@
+:root{
+    --naranja: #F8791E;
+    --gris-oscuro: #756B6B;
+    --gris-claro: #C4C4C4;
+    --lila: #CE91DD;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.Header2{
+    height: 180px;
+}
