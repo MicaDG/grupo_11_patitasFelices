@@ -1,0 +1,72 @@
+}
+body{
+    color: teal;
+    background-image: url("/images/body.jpg");
+}
+.contenedor1{
+    width: 100%;
+    padding: 15px;
+
+}
+.formulario1{
+    background: #fff;
+    margin-top: 150px;
+    padding: 3px;
+}
+h1{
+    text-align: center;
+    color: #1a2537;
+    font-size: 40px;
+}
+input[type="text"],
+input[type="password"]{
+    font-size: 20px;
+    width: 82%;
+    padding: 10px;
+    border: none;
+}
+.input-contenedor{
+    margin-bottom: 15px;
+    border: 1px solid #aaa;
+}
+.icon{
+    min-width: 50px;
+    text-align: center;
+    color: tomato;
+}
+.button1{
+    border: none;
+    width: 100%;
+    color: white;
+    font-size: 20px;
+    background: tomato;
+    padding: 15px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+.button1:hover{
+    background: yellowgreen;
+
+}
+p{
+    text-align: center;
+}
+.link{
+    text-decoration: none;
+    color: yellowgreen;
+    font-weight: 600;
+}
+.link:hover{
+    color: tomato;
+}
+@media (max-width:768)
+{.formulario1{
+margin:auto;
+width: 500px;
+margin-top: 150px;
+border-radius: 2%;
+}
+    
+}
+    

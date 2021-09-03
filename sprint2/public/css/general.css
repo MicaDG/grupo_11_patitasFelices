@@ -1,3 +1,48 @@
+
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+
+.principal{
+    width: 100%;
+    background-color: black;
+    
+}
+    
+.burger{
+    display :none;
+}
+header nav ul li a:hover{
+    background-color: hsl(30, 84%, 70%);
+}
+
+header nav ul, header nav input{
+    display: none;
+    }
+    
+    header nav input:checked ~ ul {
+    display: block;
+    }
+    header nav ul li a{
+        display: inline-block;
+        color: white;
+    }
+    header nav label{
+        display: block;
+        text-align:center;
+        background-color: black;
+        color:blue;
+        width: 35px;
+        padding: 8px;
+       margin: 0 auto 10px;
+       
+    }    
+    img{
+        width:80px;
+     }
 :root{
     --naranja: #F8791E;
     --gris-oscuro: #756B6B;
