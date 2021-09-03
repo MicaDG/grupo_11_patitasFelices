@@ -9,9 +9,6 @@
     width: 40%;
     padding-left: 5px;
 }
-.Filtrar2 i{
-align-items: flex-end;
-}
 .padre2{
     border: solid 1px var(--gris-claro);
     width: 90%;
@@ -112,3 +109,46 @@ padding-top: 7px;
     mix-blend-mode: multiply;
 }
 
+/*Vista tablet de Detalle del producto*/
+@media(min-width: 768px){
+    .seccion2{
+        margin-top: 100px;
+    }
+    .hijo2 img{
+        width: 500px;
+        height: 250px;
+    }
+    .otroProductos2{
+        top: 0px;
+    }
+    }
+
+    /*Versión desktop de Detalle del producto*/
+    @media(min-width: 1440px){
+.seccion2{
+    margin-top: 60px;
+}
+.imagenes2{
+    bottom: 60px;
+    padding-left: 200px;
+    width: 70%;
+}
+.Descripción2{
+    bottom:80px;
+    left:40px;
+}
+.cajita2{
+    bottom:130px;
+}
+.botón input{
+    bottom: 150px;
+    right: 150px;
+}
+.box-2, .caja-2{
+    margin: 80px;
+    right: 15px;
+}
+.caja2-1 {
+width: 50%;
+}  
+}
