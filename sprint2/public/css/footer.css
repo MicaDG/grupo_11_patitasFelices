@@ -1,0 +1,21 @@
+.cajita2-0{
+    background-color: var(--lila);
+    height: 10px;
+}
+.footer2{
+    background-color: var(--gris-oscuro);
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    text-align: center;
+}
+.footer2 p{
+    font-size: 10px;
+}
+.footer2 a i{
+    color: black;
+    font-size: 10px;
+}
+.footer2 span{
+    font-size: 10px;
+}

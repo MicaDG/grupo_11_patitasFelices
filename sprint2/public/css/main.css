@@ -1,0 +1,114 @@
+/*Main de Detalle del Producto*/
+.Contenedor2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.Filtrar2, .Ordenar2 {
+    background-color: var(--gris-claro);
+    width: 40%;
+    padding-left: 5px;
+}
+.Filtrar2 i{
+align-items: flex-end;
+}
+.padre2{
+    border: solid 1px var(--gris-claro);
+    width: 90%;
+    height: 500px;
+    margin: auto;
+    margin-top: 10px;
+    box-shadow: 0px 0px 10px rgb(100, 100, 100);
+}
+.padre2 h1{
+text-align: center;
+font-size: 40px;
+padding: 10px;
+color: var(--gris-oscuro);
+}
+.hijo2{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    position: relative;
+    bottom: 20px;
+}
+.hijo2 img{
+    width: 80%;
+}
+.hijo2 i{
+    color: var(--gris-oscuro);
+    font-size: 50px;
+}
+.imagenes2{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: relative;
+    bottom: 60px;
+}
+.imagenes2 img{
+    width:15%;
+}
+
+.Medidas2{
+height: 50px;
+}
+.Caja-contenedora2 p, .botón{
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 45px;
+}
+.Descripción2{
+    position: relative;
+    bottom: 60px;
+    left: 10px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.botón input{
+    border: none;
+    position: relative;
+    bottom: 130px;
+    left: 10px;
+}
+.cajita2{
+    display: flex;
+    justify-content: center;
+    bottom: 100px;
+    position: relative;
+}
+.cajita2 span{
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.box-2, .caja-2{
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    align-items: center
+}
+.box-2 img{
+width: 80%;
+mix-blend-mode: multiply;
+}
+.box2-1, .box2-2, .box2-3, .caja2-1{
+    background-color: var(--gris-claro);
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.box2-2{
+padding-top: 25px;
+}
+.box2-3{
+padding-top: 7px;
+}
+.caja-2 img{
+    width: 50%;
+    mix-blend-mode: multiply;
+}
+
