@@ -3,8 +3,7 @@
     
 }
 body{
-    color: teal;
-    background-image: url("/images/body.jpg");
+    background-color: hsl(0, 8%, 79%);
 }
 .contenedor1{
     width: 100%;
@@ -66,7 +65,7 @@ p{
 @media  (min-width:768)
 {.formulario1{
 margin: auto;
-width: 500px;
+width: 5000px;
 margin-top: 150px;
 border-radius: 2%;
 }

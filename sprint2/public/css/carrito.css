@@ -1,0 +1,131 @@
+.principal {
+  width: 100%;
+  background-color: black;
+  padding: 10px;
+}
+
+.burger {
+  display: none;
+}
+header nav ul li a:hover {
+  background-color: hsl(30, 84%, 70%);
+}
+
+header nav ul,
+header nav input {
+  display: none;
+}
+
+header nav input:checked ~ ul {
+  display: block;
+}
+header nav label {
+  text-align: center;
+  background-color: black;
+}
+
+.logoo img {
+  margin: 20px;
+  width: 100px;
+  float: left;
+}
+
+.input-contenedor-g {
+  width: 50%;
+  border: 1px solid white;
+  background-color: white;
+  margin-left: 40%;
+  margin-top: 0;
+}
+.icon-lupaa {
+  text-decoration: none;
+  padding: 5px;
+  background-color: white;
+  color: var(--naranja);
+}
+img {
+  width: 100%;
+}
+
+/*header nav ul li a{
+        display: inline-block;
+        color: white;
+    }*/
+
+.footer-conte {
+  max-width: 1170px;
+  margin: auto;
+}
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
+ul {
+  list-style: none;
+}
+.footer-f {
+  background-color: black;
+  padding: 30px;
+}
+.footer-c {
+  width: 25%;
+  padding-left: 0 15px;
+}
+.footer-c ul li b a {
+  font-size: 18px;
+  color: white;
+  text-transform: capitalize;
+  margin-bottom: 30px;
+  font-weight: 500;
+  position: relative;
+}
+.footer-c ul li b a::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -5px;
+  background-color: lightcoral;
+  height: 2px;
+  box-sizing: border-box;
+  width: 50px;
+}
+
+.footer-c ul li {
+  margin-bottom: 10px;
+}
+
+.footer-c ul li a {
+  font-size: 16px;
+  text-transform: capitalize;
+  text-decoration: none;
+  font-weight: 300;
+  color: hsl(16, 57%, 54%);
+  display: block;
+  transition: all 0.3s ease;
+}
+
+.footer-c ul li a:hover {
+  color: hsl(0, 33%, 88%);
+  padding-left: 8px;
+}
+.social a {
+  display: inline;
+  height: 40px;
+  width: 40px;
+  background-color: #f1e9e9;
+  margin: 0 10px 10px 0;
+  text-align: center;
+  line-height: 40px;
+  border-radius: 50%;
+  transition: all 05s ease;
+  float: right;
+}
+.social a:hover {
+  background-color: lightpink;
+}
+.footer-compra {
+  margin-top: 40px;
+}
+.footer-compra img {
+  width: 30%;
+}
